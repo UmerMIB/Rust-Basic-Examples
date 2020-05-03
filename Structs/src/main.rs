@@ -1,6 +1,6 @@
 /*Create a struct(named student) with 2 fields( roll no, name  ) , impl this struct with 1 method that show
 details of struct, create 1 method to change the value  one of the field of struct , 1 associated function 
-that return an instance of that structure all these methods and use all these functions in main function*/
+that return an instance of that structure . Use all these functions and methods in main function*/
 
 struct Student {
 roll_no: u32,
